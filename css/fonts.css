@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'IMFELLEnglishSC';
+    src: url('../fonts/IM FELL English SC_zitidi.com.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PingFangSC';
+    src: url('../fonts/PingFangSC-Regular3_0.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
